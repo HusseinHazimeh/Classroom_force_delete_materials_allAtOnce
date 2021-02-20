@@ -1,0 +1,2 @@
+# Classroom_force_delete_materials_allAtOnce
+Google Classroom is an e-learning platform that has been emerged recently in many schools and universities in the world. This platform is free and easy-to-use. However, it has a number of limitations in many features. One of these features is the ability of deleting multiple or all classroom materials at once. Currently, if you want to delete all materials in your classroom, you are required to delete them one by one, which is very time consuming and needs a lot of effort. Thi
